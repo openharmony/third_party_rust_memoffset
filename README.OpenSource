@@ -3,7 +3,7 @@
     "Name": "memoffset",
     "License": "Apache License V2.0",
     "License File": "LICENSE",
-    "Version Number": "0.8.0",
+    "Version Number": "0.7.1",
     "Owner": "fangting12@huawei.com",
     "Upstream URL": "https://github.com/Gilnaa/memoffset",
     "Description": "A Rust library that provides support for calculating offsets in memory."
