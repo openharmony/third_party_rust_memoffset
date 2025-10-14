@@ -20,7 +20,7 @@ ohos_cargo_crate("lib") {
 
     sources = ["src/lib.rs"]
     edition = "2015"
-    cargo_pkg_version = "0.7.1"
+    cargo_pkg_version = "0.9.1"
     cargo_pkg_authors = "Gilad Naaman <gilad.naaman@gmail.com>"
     cargo_pkg_name = "memoffset"
     cargo_pkg_description = "offset_of functionality for Rust structs."
