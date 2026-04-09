@@ -1,7 +1,7 @@
 [
   {
     "Name": "memoffset",
-    "License": "Apache License V2.0",
+    "License": "Apache-2.0",
     "License File": "LICENSE",
     "Version Number": "v0.9.1",
     "Owner": "fangting12@huawei.com",
